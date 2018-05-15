@@ -1,9 +1,5 @@
 body {
-	/* background: url(http://www.inkspilldesign.com/demo/wood-tile-background.jpg); */
-	/* background-color: #424242; */
-	/* font-family: Tahoma; */
 	background-image: url("Rainbow Blue.jpg");
-	/* background-image: url("Scooter.jpg"); */
 }
 
 .textview{
@@ -14,8 +10,6 @@ body {
 	font-size: 20px;
     font-weight: bold;
     background-color: rgba(245, 242, 237, 0.589);
-	/* background:none */
-	/* border-radius: 10px; */
 	border: none;
 }
 
@@ -25,11 +19,9 @@ body {
 	margin: 2px;
 	width: 42px;
 	height:91px;
-    
 	font-size: 20px;
 	font-weight: bold;
 	border-radius: 10px;
-  
 }
 
 .button {

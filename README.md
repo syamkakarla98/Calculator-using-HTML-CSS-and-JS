@@ -14,3 +14,4 @@
 
 
 The style sheet contains the necessary stylings and the calcscript file contains the necessary functions to implement the calculator.
+![Demo](pankajkumarkbn.github.io/images/img5.png)
